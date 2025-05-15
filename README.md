@@ -49,4 +49,4 @@ Want to try it or give feedback?
 
 👉 [Request early access](https://x-itm.com/stackforge-trial)  
 💬 [Watch the demo](http://x-itm.com/demo.mp4)  
-📫 Contact: info@x-itm.com
+📫 Contact: support@x-itm.com
